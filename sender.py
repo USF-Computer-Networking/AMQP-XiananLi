@@ -1,5 +1,5 @@
 
-/user/bin/env python
+#!/user/bin/env python
 
 import pika;
 
